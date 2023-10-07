@@ -42,7 +42,8 @@ body * {
 }
 
 #container {
-    width: 360px;
+    width: 100%;
+    max-width: 588px;
     /*height: 712px; essa largura foi só pra mostrar uma linha em volta do que será o container, não precisa colocar pq a altura precisa aumentar ou diminuir conforme vou colocando conteúdo na página*/
     /* border: 1px solid red; */
     /*margin: auto; Alinhou ao meio o container*/
